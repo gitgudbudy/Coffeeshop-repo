@@ -1,0 +1,21 @@
+{
+  "name": "Splatoon",
+  "titleIds": [
+    "0005000010176900"
+  ],
+  "mods": [
+    {
+      "id": "agent-8-full-port",
+      "name": "Playable Agent 8 + Octopus",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Claygolor",
+      "description": "Do you want to be the freshest Octoling in the game? Then, you need to look like the freshest Octoling in the world!\n\nThis mod includes:\nOctolings over Inklings wearing skirt and pants from Agent 8.\nOctopus form ported from Splatoon 2 with its own animations.\nOctopus Kraken Royale from Splatoon 3.\nAgent 8 gear from Octo Expansion.\nOctoling voices and Kraken Royale sound effect.\n\n\nB-ball Jersey (Away) ---------- Agent 8 Top\nMoto Boots --------------------- Agent 8 Heels\nTan Work Boots --------------- Agent 8 Boots\n\nNOTE:\nThis mod uses a custom Static.pack in order to fix Agent 8 Heels, you can delete it if it gives you conflict with other mods but expect feet clipping through the shoes.",
+      "download": "https://gamebanana.com/mods/download/620639#FileInfo_1519459",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/620639?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/68c9b9a27bafb.jpg https://images.gamebanana.com/img/ss/mods/68c9b9a27bafb.jpg https://images.gamebanana.com/img/ss/mods/68c9b9af783e3.jpg https://images.gamebanana.com/img/ss/mods/68c9b9a283f97.jpg https://images.gamebanana.com/img/ss/mods/68c9b9a2771ac.jpg https://images.gamebanana.com/img/ss/mods/68c9b9afaee98.jpg https://images.gamebanana.com/img/ss/mods/68c9b9bd4b875.jpg https://images.gamebanana.com/img/ss/mods/68c9b9b05bee0.jpg https://images.gamebanana.com/img/ss/mods/68c9b9afeef1b.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "Splatoon Mods",
+  "author": "gitgudbudy",
+  "description": "This Repo is a collection of Splatoon mods I use.\n(THESE MODS ARE NOT MINE)",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/new-game/game.json"
+    }
+  ]
+}
